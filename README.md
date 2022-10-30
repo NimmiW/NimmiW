@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NimmiW
 - 👀 I’m interested in Software Engineering related research.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently a PhD candidate in university of Waterloo. 
 
 <!---
 - 💞️ I’m looking to collaborate on 
