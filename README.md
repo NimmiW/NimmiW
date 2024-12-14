@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @NimmiW
-- 👀 I’m interested in Software Engineering related research.
+- 👀 I’m interested in Software Engineering-related research.
 - 🌱 I’m currently a PhD candidate in university of Waterloo and open for collaborations.
-- http://nimmiw.com
+- 🌐 My website: http://nimmiw.com
+- 🗨 Connect with me via Linkedin: https://www.linkedin.com/in/nimmi-rashinika
 
 <!---
 - 💞️ I’m looking to collaborate on 
